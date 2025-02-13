@@ -4,3 +4,4 @@ y <- x[-c(3,7,8)]#eliminar posicions del vector x
 y
 sum(exp(x))-sum(exp(y))
 y[2]#mirar valor en la posicio 2 del vector y
+.
