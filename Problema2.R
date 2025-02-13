@@ -17,3 +17,4 @@ barplot(ni)
 #pie discretas
 fi<-ni/length(x)
 pie(fi)
+.
